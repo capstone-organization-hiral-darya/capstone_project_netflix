@@ -1,6 +1,6 @@
 
 # data files
-data/
+#data/
 # connection details
 sql.py
 
@@ -136,9 +136,6 @@ dmypy.json
 
 # database details
 database.ini
-
-# Data
-data/
 
 #DS_Store
 .DS_Store
